@@ -1,4 +1,9 @@
 # Linkvertise Bypass Discord Bot
+
+<p align="center">
+  <img width="500" src="https://cdn.discordapp.com/attachments/952373356219469864/952374119406649354/XNqZWBm34f.gif" alt="Material Bread logo">
+</p>
+
 **Discord Bot zum bypassen von nervigen Linkvertise Links.**
 
 In der src sind auch noch Notizen bei jedem Schritt damit jeder weiß was genau welche Zeile jetzt macht. :>
