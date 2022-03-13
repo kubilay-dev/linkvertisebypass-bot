@@ -1,10 +1,7 @@
 # Linkvertise Bypass Discord Bot
 **Discord Bot zum bypassen von nervigen Linkvertise Links.**
 
-Der Bot ist in discord.py geschrieben. Einfach eine simple GET Request an eine API.
-
-
-
+In der src sind auch noch Notizen bei jedem Schritt damit jeder weiß was genau welche Zeile jetzt macht. :>
 
 _**ACHTUNG! Es gibt keine Hilfe zur Installation oder Bearbeitung des Bots. Findet es selber heraus und wenn ihr nicht wisst, wie man Python Scripts aufsetzt dann lasst es.**_
 
